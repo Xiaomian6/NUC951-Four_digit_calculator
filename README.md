@@ -2,7 +2,7 @@
 [Embedded Exp]基于NUC951开发板的四位数触屏计算器
 
 ### 开发环境
-- 硬件：NUC951-开发板f323
+- 硬件：NUC951-开发板
 - 软件：Windows + CodeWarrior for ARM Developer Suite
 
 ### 原理
